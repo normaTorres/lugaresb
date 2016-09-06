@@ -1,0 +1,38 @@
+{
+  "places":{
+      "apiversion":0.1,
+      "placesList":[
+        {
+          "placeId":2,
+          "placeName":"Monumento Salvador de el Mundo,
+          "latitude":13.697429,
+          "longitude":-89.18718
+        },
+        {
+          "placeId":3,
+          "placeName":"Estadio Cuscatlan",
+          "latitude":13.697429,
+          "longitude":-89.18718
+        },
+        {
+          "placeId":4,
+          "placeName":"Parque Zoologico Nacional",
+          "latitude":13.6809422,
+          "longitude":-89.2077408
+        },
+        {
+          "placeId":5,
+          "placeName":"Ecoparque el Espino",
+          "latitude":13.6819439,
+          "longitude":-89.2602074
+        },
+        {
+          "placeId":6,
+          "placeName":"Parque Bicentenario",
+          "latitude":13.6819439,
+          "longitude":-89.2602074
+        },
+        
+    ]
+  }
+}
